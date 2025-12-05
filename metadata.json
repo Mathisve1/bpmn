@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Student Enrollment BPM Dashboard",
+  "description": "A comprehensive dashboard to monitor the Student Enrollment process, visualize KPIs, and identify process bottlenecks and fraud attempts based on generated mock data.",
+  "requestFramePermissions": []
+}
